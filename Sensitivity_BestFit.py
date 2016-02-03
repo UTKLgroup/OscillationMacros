@@ -12,8 +12,8 @@ Data=[]
 #Set resoultion. 
 #WARNING: 50x50 as resolution takes about 10 seconds to run. 
 #Higher resolution would geometrically increase time of execution.
-a_res=50
-m2_res=50
+a_res=50.0
+m2_res=50.0
 
 #Set limits in parameter space
 a_lim=1
